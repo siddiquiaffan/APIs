@@ -18,7 +18,7 @@ Example: https://amznsearch.herokuapp.com/api/?query=macbook+pro
 
 
 <form id="name">
-<label for="input-name">Name </label>
-<input type="text" name="name" id="input-name" placeholder="Search Amazon">
-<input type="submit" name="submit" onClick="javascript: window.open('https://amznsearch.vercel.app/api/?query=' + document.querySelector('#input-name').value)">
+<label for="input-name">Search : </label>
+<input type="text" name="name" id="input-name" placeholder="Search Amazon"> <br />
+<input type="submit" name="submit" style="background:#155783;color:white;font-weight:bold;" onClick="javascript: window.open('https://amznsearch.vercel.app/api/?query=' + document.querySelector('#input-name').value)">
 </form>
