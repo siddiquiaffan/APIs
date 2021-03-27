@@ -4,9 +4,9 @@ An API by which you can easily get Amazon search results into JSON fromat.
 ### Usage:  
 
 ```
-https://amznsearch.herokuapp.com/api/?query={your-query-here}
+https://amznsearch.vercel.app/api/?query={your-query-here}
 ```  
-Example: https://amznsearch.herokuapp.com/api/?query=macbook+pro  
+Example: https://amznsearch.vercel.app/api/?query=macbook+pro  
 
 ------------------------------------------  
 
