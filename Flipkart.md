@@ -4,9 +4,9 @@ An API by which you can easily get Amazon search results into JSON fromat.
 ### Usage:  
 
 ```
-https://flpkrtsearch.herokuapp.com/api/?query={your-query-here}
+https://flpkrtsearch.vercel.app/api/?query={your-query-here}
 ```  
-Example: https://flpkrtsearch.herokuapp.com/api/?query=macbook+pro  
+Example: https://flpkrtsearch.vercel.app/api/?query=macbook+pro  
 
 ------------------------------------------  
 
