@@ -7,7 +7,7 @@
 ## 🔐 Closed Source APIs
 -----------------------------------------------  
 
-### 1) [Amazon Search](https://github.com/AffanTheBest/search/blob/main/Amazon.md) 🔍  
+### 1) [Amazon Search](https://github.com/AffanTheBest/APIs/blob/main/Amazon.md) 🔍  
 Gives search results from amazon.  
 #### Use :  
 ```https://amznsearch.vercel.app/api/?query={your-query}```  
@@ -15,7 +15,7 @@ Gives search results from amazon.
 
 ----------------------------------------------  
 
-### 2) [Flipkart Search](https://github.com/AffanTheBest/search/blob/main/Flippkart.md) 🔍  
+### 2) [Flipkart Search](https://github.com/AffanTheBest/APIs/blob/main/Flipkart.md) 🔍  
 Gives search results from amazon.  
 #### Use :  
 ```https://flpkrtsearch.vercel.app/api/?query={your-query}```  
