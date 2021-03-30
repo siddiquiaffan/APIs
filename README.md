@@ -22,7 +22,16 @@ Gives search results from amazon.
 #### Example : [https://flpkrtsearch.vercel.app/api/?query=Macbook+Pro](https://flpkrtsearch.vercel.app/api/?query=Macbook+Pro)  
 
 ----------------------------------------------  
-  
+----------------------------------------------
+## 🔓 Open Sourced APIs  
+----------------------------------------------  
+### 1) [Carbon API](https://github.com/AffanTheBest/Carbon-API)  
+Create and share beautiful images of your source code.
+#### Use:
+```https://carbon.verecel.app/api/?text={your-code-here}```
+#### Example: [https://carbon.verecel.app/api/?text=Made+with+❤+by+Affan](https://carbon.verecel.app/api/?text=Made+with+❤+by+Affan)  
+#### [Detailed Usage](https://github.com/AffanTheBest/Carbon-API/blob/main/README.md)
+----------------------------------------------  
 # ~~ THESE APIS ARE HOSTED ON FREE SERVERS LIKE VERCEL , HEROKU SO IT MAY BE SLOW TO RESPOND ~~  
   
 ----------------------------------------------  
