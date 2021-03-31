@@ -3,7 +3,7 @@ Create and share beautiful images of your source code!
 ---
 <p align="center">
     <a href="https://github.com/carbon-app/carbon">
-        <img src="resources/carbon.png" alt="Carbon">
+        <img src="https://github.com/AffanTheBest/Carbon-API/raw/main/resources/carbon.png" alt="Carbon">
     </a>
     <br>
     <b>Unofficial API</b>
@@ -55,7 +55,7 @@ https://carbon.vercel.app/?text=Made+with+❤+in+India+by+Affan
 **Response** is an image of a code or text snippet.
 <p align="center">
     <a href="https://github.com/AffanTheBest">
-        <img src="resources/response.png" alt="Response">
+        <img src="https://github.com/AffanTheBest/Carbon-API/raw/main/resources/response.png" alt="Response">
     </a>
 </p>
 
