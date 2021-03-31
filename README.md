@@ -36,7 +36,7 @@ Create and share beautiful images of your source code.
   
 ----------------------------------------------  
 
-### Show some to the repo if you love it and find to be useful! ❤
+### Show some support to the repo if you love it and find to be useful! ❤
 
 ## © [Affan](https://github.com/AffanTheBest)  
 ### All Rights Reserved
