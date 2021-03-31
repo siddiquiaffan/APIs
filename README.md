@@ -28,8 +28,8 @@ Gives search results from amazon.
 ### 1) [Carbon API](https://github.com/AffanTheBest/Carbon-API)  
 Create and share beautiful images of your source code.
 #### Use:
-```https://carbon.verecel.app/api/?text={your-code-here}```
-#### Example: [https://carbon.verecel.app/api/?text=Made+with+❤+by+Affan](https://carbon.verecel.app/api/?text=Made+with+❤+by+Affan)  
+```https://unofficialcarbon.herokuapp.com/api?text={your-code-here}```
+#### Example: [https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan](https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan)  
 #### [Detailed Usage](https://github.com/AffanTheBest/Carbon-API/blob/main/README.md)
 ----------------------------------------------  
 # ~~ THESE APIS ARE HOSTED ON FREE SERVERS LIKE VERCEL , HEROKU SO IT MAY BE SLOW TO RESPOND ~~  
