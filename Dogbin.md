@@ -19,10 +19,14 @@ Short Unlimited URLs!
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/asprojects)
 ------------
 ### Usage:  
-
+##### Paste:  
 ```
-https://deldog.herokuapp.com/api/?text={URL/Text}
-```  
+https://deldog.herokuapp.com/api/paste/?text={URL/Text}
+```
+##### Get Paste:  
+```
+https://deldog.herokuapp.com/api/getPaste/?url={URL}
+```
 Example: [https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest)  
 
 ----------------------------------------------------------  
