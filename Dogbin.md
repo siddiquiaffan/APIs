@@ -21,9 +21,9 @@ Short Unlimited URLs!
 ### Usage:  
 
 ```
-https://deldog.vercel.app/api/?text={URL/Text}
+https://deldog.herokuapp.com/api/?text={URL/Text}
 ```  
-Example: [https://deldog.vercel.app/api/?text=https://github.com/AffanTheBest](https://deldog.vercel.app/api/?text=https://github.com/AffanTheBest)  
+Example: [https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest)  
 
 ----------------------------------------------------------  
 
