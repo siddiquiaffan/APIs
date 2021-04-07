@@ -39,8 +39,7 @@ Create and share beautiful images of your source code.
 #### Use:
 ```https://unofficialcarbon.herokuapp.com/api?text={your-code-here}```
 #### Example: [https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan](https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan)  
-#### [Detailed Usage](https://github.com/AffanTheBest/Carbon-API/blob/main/README.md)  
-  
+
 ### 2) [Unshort API](https://github.com/AffanTheBest/unshort-api)  
 An api by which you can extract full links from shortened links.    
   
