@@ -43,7 +43,17 @@ Create and share beautiful images of your source code.
 #### Use:
 ```https://unofficialcarbon.herokuapp.com/api?text={your-code-here}```
 #### Example: [https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan](https://unofficialcarbon.herokuapp.com/api?text=Made+with+❤+in+India+by+Affan)  
-#### [Detailed Usage](https://github.com/AffanTheBest/Carbon-API/blob/main/README.md)
+#### [Detailed Usage](https://github.com/AffanTheBest/Carbon-API/blob/main/README.md)  
+  
+### 2) [Unshort API](https://github.com/AffanTheBest/unshort-api)  
+An api by which you can extract full links from shortened links.    
+  
+#### Use :  
+```
+https://unshort.herokuapp.com/api/?url={short-url-here}
+```
+#### Example : [https://unshort.herokuapp.com/api/?url=https://cutt.ly/qzXU9A2](https://unshort.herokuapp.com/api/?url=https://cutt.ly/qzXU9A2)  
+
 ----------------------------------------------  
 # ~~ THESE APIS ARE HOSTED ON FREE SERVERS LIKE VERCEL , HEROKU SO IT MAY BE SLOW TO RESPOND ~~  
   
