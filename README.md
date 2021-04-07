@@ -21,6 +21,19 @@ Gives search results from amazon.
 ```https://flpkrtsearch.vercel.app/api/?query={your-query}```  
 #### Example : [https://flpkrtsearch.vercel.app/api/?query=Macbook+Pro](https://flpkrtsearch.vercel.app/api/?query=Macbook+Pro)  
 
+### 3) [Dogbin API](https://github.com/AffanTheBest/APIs/blob/main/Dogbin.md) 📋  
+Unofficial API for pasting and URL shortening using del.dog.  
+#### Use :  
+##### Paste:  
+```
+https://deldog.herokuapp.com/api/paste/?text={URL/Text}
+```
+##### Get Paste:  
+```
+https://deldog.herokuapp.com/api/getPaste/?url={URL}
+```
+#### Example: [https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest)  
+
 ----------------------------------------------  
 ----------------------------------------------
 ## 🔓 Open Sourced APIs  
