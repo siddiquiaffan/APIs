@@ -25,13 +25,9 @@ Gives search results from amazon.
 Unofficial API for pasting and URL shortening using del.dog.  
 #### Use :  
 ##### Paste:  
-```
-https://deldog.herokuapp.com/api/paste/?text={URL/Text}
-```
+```https://deldog.herokuapp.com/api/paste/?text={URL/Text}```
 ##### Get Paste:  
-```
-https://deldog.herokuapp.com/api/getPaste/?url={URL}
-```
+```https://deldog.herokuapp.com/api/getPaste/?url={URL}```
 #### Example: [https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest)  
 
 ----------------------------------------------  
@@ -49,9 +45,7 @@ Create and share beautiful images of your source code.
 An api by which you can extract full links from shortened links.    
   
 #### Use :  
-```
-https://unshort.herokuapp.com/api/?url={short-url-here}
-```
+```https://unshort.herokuapp.com/api/?url={short-url-here}```
 #### Example : [https://unshort.herokuapp.com/api/?url=https://cutt.ly/qzXU9A2](https://unshort.herokuapp.com/api/?url=https://cutt.ly/qzXU9A2)  
 
 ----------------------------------------------  
