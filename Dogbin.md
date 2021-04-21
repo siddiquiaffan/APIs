@@ -27,7 +27,7 @@ https://deldog.herokuapp.com/api/paste/?text={URL/Text}
 ```
 https://deldog.herokuapp.com/api/getPaste/?url={URL}
 ```
-Example: [https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/?text=https://github.com/AffanTheBest)  
+Example: [https://deldog.herokuapp.com/api/paste/?text=https://github.com/AffanTheBest](https://deldog.herokuapp.com/api/paste/?text=https://github.com/AffanTheBest)  
 
 ----------------------------------------------------------  
 
