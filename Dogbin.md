@@ -14,7 +14,7 @@ Short Unlimited URLs!
 
 ### Show some :heart: and :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/AffanTheBest/Dogbin-API.svg?style=social&label=Star)](https://github.com/AffanTheBest/APIs)
+[![GitHub stars](https://img.shields.io/github/stars/AffanTheBest/APIs.svg?style=social&label=Star)](https://github.com/AffanTheBest/APIs)
 ![GitHub followers](https://img.shields.io/github/followers/AffanTheBest.svg?style=social&label=Follow)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/asprojects)
 ------------
